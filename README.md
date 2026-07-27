@@ -105,7 +105,7 @@ https://yogeshpatil-portfolio.vercel.app
 https://github.com/patilyogeshofficial
 
 📄 Resume
-(Add your Google Drive resume link here)
+https://drive.google.com/file/d/1fh5q8JS4jp-p0YgkS1QsJBiAasYoPjQs/view?usp=drive_link
 
 📧 Email
 patilyogeshofficial@gmail.com

@@ -9,7 +9,7 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;React+Developer;Open+to+Internship+%26+Full-Time+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;React+Developer;Open+to+Internship+%26+Full-Time+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,15 +36,36 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,postgres,git,github,vscode,idea,maven,postman&perline=8" />
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
+
+### 🛠️ Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman" />
 </p>
 
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=patilyogeshofficial&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=patilyogeshofficial&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -99,9 +120,11 @@ Spring Boot CRUD application for managing healthcare administration records.
 
 ## 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilyogeshofficial&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=patilyogeshofficial&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
+
 ### 🌐 Connect With Me
 
 <p align="center">

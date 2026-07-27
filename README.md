@@ -64,7 +64,15 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 - VS Code
 - IntelliJ IDEA
 - Maven
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=patilyogeshofficial&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=patilyogeshofficial&theme=tokyonight&hide_border=true" />
+</p>
   
 
 ## 🚀 Featured Projects
@@ -91,21 +99,25 @@ Spring Boot CRUD Application
 
 Java • Spring Boot • MySQL
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilyogeshofficial&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn
-https://linkedin.com/in/patilyogeshofficial
+<p align="center">
+<a href="https://www.linkedin.com/in/patilyogeshofficial/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🌐 Portfolio
-https://yogeshpatil-portfolio.vercel.app
+<a href="https://yogeshpatil-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-💻 GitHub
-https://github.com/patilyogeshofficial
-
-📄 Resume
-https://drive.google.com/file/d/1fh5q8JS4jp-p0YgkS1QsJBiAasYoPjQs/view?usp=drive_link
+<a href="[YOUR_GOOGLE_DRIVE_RESUME_LINK](https://drive.google.com/file/d/1fh5q8JS4jp-p0YgkS1QsJBiAasYoPjQs/view?usp=drive_link)">
+<img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p>
 
 📧 Email
 patilyogeshofficial@gmail.com

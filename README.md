@@ -7,6 +7,10 @@ Java Full Stack Developer | Computer Engineering Student | Reliance Foundation S
 <p align="center">
 Passionate about building scalable web applications using Java, Spring Boot, React, MySQL, and REST APIs.
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Full%20Stack-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20Opportunities-2EA44F?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;React+Developer;Open+to+Internship+%26+Full-Time+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -37,28 +41,73 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<p align="center">
+<b>Java • JavaScript • Python (Basics)</b>
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+---
+
+### 🌐 Web Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
 </p>
+
+<p align="center">
+<b>HTML5 • CSS3 • Bootstrap • Tailwind CSS • React.js</b>
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+<p align="center">
+<b>Java • Spring Boot • JDBC • REST APIs • MVC Architecture</b>
+</p>
+
+---
 
 ### 🗄️ Database
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
-### 🛠️ Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman" />
+<p align="center">
+<b>SQL • MySQL • PostgreSQL • SQLite</b>
+</p>
+
+---
+
+### 🛠️ Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,vscode,idea" />
+</p>
+
+<p align="center">
+<b>Git • GitHub • Postman • Maven • VS Code • IntelliJ IDEA</b>
+</p>
+
+---
+
+### ☁️ Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+<p align="center">
+<b>Vercel</b>
 </p>
 
 ---
@@ -125,7 +174,7 @@ Spring Boot CRUD application for managing healthcare administration records.
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/patilyogeshofficial/">
@@ -139,9 +188,10 @@ Spring Boot CRUD application for managing healthcare administration records.
 <a href="https://drive.google.com/file/d/1fh5q8JS4jp-p0YgkS1QsJBiAasYoPjQs/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
+<a href="mailto:patilyogeshofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
-
-📧 **Email:** <patilyogeshofficial@gmail.com>
 
 ---
 <p align="center">

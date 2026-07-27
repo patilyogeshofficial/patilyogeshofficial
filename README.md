@@ -9,7 +9,7 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;React+Developer;Open+to+Internship+%26+Full-Time+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;React+Developer;Open+to+Internship+%26+Full-Time+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,6 +31,7 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 📍 Pune, Maharashtra, India
 
 💼 Open to Internship & Full-Time Opportunities
+
 ---
 
 ## 🛠️ Tech Stack
@@ -54,10 +55,17 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 ## 🚀 Featured Projects
 
 ### 🤖 Aspire AI
-AI-powered Career Coach using Google Gemini API.
 
-**Tech Stack**
-Next.js • Node.js • PostgreSQL • Prisma • Clerk
+AI-powered career coaching platform that provides personalised career guidance, resume insights, interview preparation, and AI-driven recommendations.
+
+**Tech Stack:** Next.js • Node.js • PostgreSQL • Prisma • Clerk • Google Gemini API
+
+**Key Features**
+- AI Career Guidance
+- Resume Analysis
+- Interview Preparation
+- Authentication with Clerk
+- Responsive UI
 
 ---
 
@@ -77,16 +85,24 @@ Full Stack Quiz Platform
 
 ### 🏥 Healthcare Administration Console
 
-Spring Boot CRUD Application
+Spring Boot CRUD application for managing healthcare administration records.
 
-Java • Spring Boot • MySQL
+**Tech Stack:** Java • Spring Boot • MySQL
+
+**Key Features**
+- CRUD Operations
+- REST APIs
+- MySQL Database
+- Clean MVC Architecture
+
 ---
+
 ## 💻 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilyogeshofficial&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/patilyogeshofficial/">
@@ -102,8 +118,12 @@ Java • Spring Boot • MySQL
 </a>
 </p>
 
-📧 Email
-patilyogeshofficial@gmail.com
+📧 **Email:** <patilyogeshofficial@gmail.com>
+
+---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=patilyogeshofficial&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 

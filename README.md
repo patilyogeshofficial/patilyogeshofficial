@@ -8,37 +8,80 @@ Java Full Stack Developer | Computer Engineering Student | Reliance Foundation S
 Passionate about building scalable web applications using Java, Spring Boot, React, MySQL, and REST APIs.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;React+Developer;Open+to+Internship+%26+Full-Time+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 🎓 B.Tech in Computer Engineering (2022–2026)
 
+🏫 SSVPS B.S. Deore College of Engineering, Dhule
+
 💻 Aspiring Java Full Stack Developer
 
-🌱 Currently learning Spring Boot, React, SQL, and System Design
+🌱 Currently learning Spring Boot, React, SQL & System Design
 
-🚀 Building real-world Full Stack Applications
+🚀 Passionate about building scalable Full Stack Applications
 
 🏆 Reliance Foundation Scholar & Mentor
 
-📍 Maharashtra, India
+📍 Pune, Maharashtra, India
+
+💼 Open to Internship & Full-Time Opportunities
 
 ---
 
+## 🛠️ Tech Stack
+
+### Programming Languages
+- Java
+- JavaScript
+- Python (Basics)
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- React
+
+### Backend
+- Spring Boot
+- JDBC
+- REST APIs
+
+### Database
+- MySQL
+- PostgreSQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- IntelliJ IDEA
+- Maven
+
+  
+
 ## 🚀 Featured Projects
 
-### 🌟 Aspire AI – AI Powered Career Coach
-AI-powered platform that provides career guidance using Google Gemini API.
+### 🤖 Aspire AI
+AI-powered Career Coach using Google Gemini API.
 
-**Tech Stack:** Next.js • Node.js • PostgreSQL • Prisma • Clerk • Gemini API
+**Tech Stack**
+Next.js • Node.js • PostgreSQL • Prisma • Clerk
 
 ---
 
 ### 🎯 TechQuest
-Full Stack Quiz Application
 
-**Tech Stack:** React • Spring Boot • MySQL
+Full Stack Quiz Platform
+
+React • Spring Boot • MySQL
 
 ---
 
@@ -46,17 +89,23 @@ Full Stack Quiz Application
 
 Spring Boot CRUD Application
 
-**Tech Stack:** Java • Spring Boot • MySQL
+Java • Spring Boot • MySQL
 
----
+
 
 ## 🌐 Connect With Me
 
 💼 LinkedIn
-https://www.linkedin.com/in/patilyogeshofficial/
+https://linkedin.com/in/patilyogeshofficial
 
 🌐 Portfolio
-https://yogeshpatil-portfolio.vercel.app/
+https://yogeshpatil-portfolio.vercel.app
 
 💻 GitHub
 https://github.com/patilyogeshofficial
+
+📄 Resume
+(Add your Google Drive resume link here)
+
+📧 Email
+patilyogeshofficial@gmail.com

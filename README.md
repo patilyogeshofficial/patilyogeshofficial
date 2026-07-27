@@ -31,39 +31,15 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 📍 Pune, Maharashtra, India
 
 💼 Open to Internship & Full-Time Opportunities
-
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Java
-- JavaScript
-- Python (Basics)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,postgres,git,github,vscode,idea,maven,postman&perline=8" />
+</p>
 
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- React
-
-### Backend
-- Spring Boot
-- JDBC
-- REST APIs
-
-### Database
-- MySQL
-- PostgreSQL
-- SQLite
-
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- IntelliJ IDEA
-- Maven
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -89,7 +65,13 @@ Next.js • Node.js • PostgreSQL • Prisma • Clerk
 
 Full Stack Quiz Platform
 
-React • Spring Boot • MySQL
+**Tech Stack:** React • Spring Boot • MySQL
+
+**Key Features**
+- User Authentication
+- CRUD Operations
+- REST APIs
+- Responsive UI
 
 ---
 
@@ -98,11 +80,12 @@ React • Spring Boot • MySQL
 Spring Boot CRUD Application
 
 Java • Spring Boot • MySQL
-
+---
+## 💻 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilyogeshofficial&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+---
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -114,10 +97,14 @@ Java • Spring Boot • MySQL
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="[YOUR_GOOGLE_DRIVE_RESUME_LINK](https://drive.google.com/file/d/1fh5q8JS4jp-p0YgkS1QsJBiAasYoPjQs/view?usp=drive_link)">
+<a href="https://drive.google.com/file/d/1fh5q8JS4jp-p0YgkS1QsJBiAasYoPjQs/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 </p>
 
 📧 Email
 patilyogeshofficial@gmail.com
+
+---
+
+⭐ If you like my work, don't forget to star my repositories!

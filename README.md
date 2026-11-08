@@ -71,7 +71,7 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 </p>
 
 <p align="center">
-<b>Java • Spring Boot • JDBC • REST APIs • MVC Architecture</b>
+<b>Java • Spring Boot • JDBC • HIBERNATE WITH JPA • REST APIs • MVC Architecture</b>
 </p>
 
 ---

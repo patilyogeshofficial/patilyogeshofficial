@@ -95,7 +95,7 @@ Passionate about building scalable web applications using Java, Spring Boot, Rea
 </p>
 
 <p align="center">
-<b>Git • GitHub • Postman • Maven • VS Code • IntelliJ IDEA</b>
+<b>Git • GitHub • Postman • Maven • VS Code • IntelliJ IDEA • Eclipse </b>
 </p>
 
 ---
